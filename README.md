@@ -1,3 +1,3 @@
 # CS121-DS-Reed
 Landon Reed
-lreed@gmail.com
+lreed@bsu.edu
